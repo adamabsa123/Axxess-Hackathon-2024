@@ -1,6 +1,11 @@
-# Description
+# App Name
+ComfortFlow
 
-# Vidoe
+# Description
+An award-winning mobile app(Axxess-Hackathon 2024) for real-time monitoring of medical statistics, including temperature, heart rate, and more, using piezoelectric sensors(Arduino) in bed sheets and technologies.
+
+# Video Demonstration
+https://www.youtube.com/watch?v=ZFyk4jWFXZg
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
